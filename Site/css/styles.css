@@ -1,0 +1,35 @@
+.site1{
+    background-color: #ffa7a7cc;
+    height: 700px;
+    width: 1300px;
+    
+}
+#modal1{
+    background-color: #9f9fff;
+    min-height: 300px;
+    height: 700px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#modalHead{
+    background-color: aquamarine;
+    height: 100px;
+}
+#modalContent{
+    background-color: burlywood;
+    margin-top: 20%;
+    margin-bottom: 25%;
+    height: 40%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+#modalFooter{
+    background-color: blueviolet;
+    height: 27px;
+    width: 50px;
+    margin-right: 45%;
+    margin-left: 45%;
+}
+.site2{
+    background-color: red;
+}
